@@ -1,0 +1,7 @@
+*.sh filter=git-crypt diff=git-crypt
+*.bash filter=git-crypt diff=git-crypt
+*.md filter=git-crypt diff=git-crypt
+*.notes filter=git-crypt diff=git-crypt
+*.tnotes filter=git-crypt diff=git-crypt
+*.txt filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
